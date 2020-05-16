@@ -9,14 +9,15 @@ export default function(props) {
     return(
         <div>
             <ThemeProvider theme={theme}>
-                <Box m={5} >
+                <Box mb={5}>
                     <Grid container spacing={5}>
-                        <Grid container item xs={12} s={2} md={3}>
+                        <Grid container justify='center' item s={12} md={5} lg={3}>
                             <AboutIcon img={props.img} />
                         </Grid>
                         <Grid item xs s md >
                             <Box textAlign='left'>
-                                <Typography variant='p'>{props.text}</Typography>
+                                <Typography variant='h4'><Box mb={3}>{props.img}</Box></Typography>
+                                <Typography variant='subtitle1'><Box className='subtext'>{props.text}</Box></Typography>
                             </Box>
                         </Grid>
                     </Grid>
