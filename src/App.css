@@ -38,12 +38,12 @@
 }
 
 .App-about {
-
+  background-color: #F2F5F3;
+  color: #32373B;
 }
 
-#avatar img {
-  width: 75%;
+#avatar {
+  width: 60%;
   object-fit: cover;
   border-radius: 50%;
 }
-
