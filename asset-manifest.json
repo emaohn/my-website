@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/my-website/static/css/main.d1b05096.chunk.css",
-    "main.js": "/my-website/static/js/main.61dc1e27.chunk.js",
-    "main.js.map": "/my-website/static/js/main.61dc1e27.chunk.js.map",
+    "main.css": "/my-website/static/css/main.bdeb6057.chunk.css",
+    "main.js": "/my-website/static/js/main.665e0824.chunk.js",
+    "main.js.map": "/my-website/static/js/main.665e0824.chunk.js.map",
     "runtime-main.js": "/my-website/static/js/runtime-main.4b3f9178.js",
     "runtime-main.js.map": "/my-website/static/js/runtime-main.4b3f9178.js.map",
-    "static/css/2.9ff99f11.chunk.css": "/my-website/static/css/2.9ff99f11.chunk.css",
-    "static/js/2.b16f7cb8.chunk.js": "/my-website/static/js/2.b16f7cb8.chunk.js",
-    "static/js/2.b16f7cb8.chunk.js.map": "/my-website/static/js/2.b16f7cb8.chunk.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/my-website/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.02df1a4d.chunk.js": "/my-website/static/js/2.02df1a4d.chunk.js",
+    "static/js/2.02df1a4d.chunk.js.map": "/my-website/static/js/2.02df1a4d.chunk.js.map",
     "index.html": "/my-website/index.html",
-    "precache-manifest.d74664ba05a6da7c067243acf132731d.js": "/my-website/precache-manifest.d74664ba05a6da7c067243acf132731d.js",
+    "precache-manifest.ff113786dc840558fc7b130641a26a21.js": "/my-website/precache-manifest.ff113786dc840558fc7b130641a26a21.js",
     "service-worker.js": "/my-website/service-worker.js",
-    "static/css/2.9ff99f11.chunk.css.map": "/my-website/static/css/2.9ff99f11.chunk.css.map",
-    "static/css/main.d1b05096.chunk.css.map": "/my-website/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.b16f7cb8.chunk.js.LICENSE.txt": "/my-website/static/js/2.b16f7cb8.chunk.js.LICENSE.txt"
+    "static/css/2.af3c1da9.chunk.css.map": "/my-website/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.bdeb6057.chunk.css.map": "/my-website/static/css/main.bdeb6057.chunk.css.map",
+    "static/js/2.02df1a4d.chunk.js.LICENSE.txt": "/my-website/static/js/2.02df1a4d.chunk.js.LICENSE.txt",
+    "static/media/avatar.jpeg": "/my-website/static/media/avatar.85596822.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.4b3f9178.js",
-    "static/css/2.9ff99f11.chunk.css",
-    "static/js/2.b16f7cb8.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.61dc1e27.chunk.js"
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.02df1a4d.chunk.js",
+    "static/css/main.bdeb6057.chunk.css",
+    "static/js/main.665e0824.chunk.js"
   ]
 }
