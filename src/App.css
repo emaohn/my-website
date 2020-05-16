@@ -14,14 +14,14 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #FFFFFA;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #32373B;
 }
 
 .App-link {
@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.App-about {
+
+}
+
+#avatar img {
+  width: 75%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
