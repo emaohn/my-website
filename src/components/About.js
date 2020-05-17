@@ -3,6 +3,7 @@ import {Typography, Box, Container, Grid, Paper, Button} from '@material-ui/core
 import { ThemeProvider } from '@material-ui/styles';
 import theme from '../theme'
 import MeComponent from './MeComponent'
+import SkillGraph from './SkillGraph'
 
 export default function About() {
     const text = {
@@ -17,19 +18,29 @@ export default function About() {
                 <Box py={5} px={15}>
                     <Grid container alignItems='center'>
                         <Grid item xs={12}>
-                            <Box mb={10}>
+                            <Box mb={6}>
                                 <Typography gutterBottom variant='h2'>About</Typography>
                             </Box>
                         </Grid>
                     </Grid>
-                    <Grid container spacing={3}>
+                    <Grid container spacing={3} alignItems='center'>
                         <Grid item md={12} lg={4}>
-                            <Box px={1}>
-                                <img id='avatar' src={require('../static/avatar.jpeg')}/>
-                            </Box>
-                            <Box mt={5} px={1}>
-                                <Typography gutterBottom variant='subtitle1'><Box className='subtext'>{text.blurb}</Box></Typography>
-                            </Box>
+                            <Grid item direction='column'>
+                                <Grid item>
+                                    <Box px={1}>
+                                        <img id='avatar' src={require('../static/avatar.jpeg')}/>
+                                    </Box>
+                                </Grid>
+                                <Grid item>
+                                    <Box my={5} px={1}>
+                                        <Typography gutterBottom variant='subtitle1'>
+                                            <Box className='subtext'>
+                                                {text.blurb}
+                                            </Box>
+                                        </Typography>
+                                    </Box>
+                                </Grid>
+                            </Grid>
                         </Grid>
                         <Grid item></Grid>
                         <Grid item s md xl justify='flex-start'>
