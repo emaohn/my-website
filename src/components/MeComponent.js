@@ -11,7 +11,7 @@ export default function(props) {
             <ThemeProvider theme={theme}>
                 <Box mb={5}>
                     <Grid container spacing={3}>
-                        <Grid container justify='center' alignItems='center' item s={12} md={5} lg={3}>
+                        <Grid container justify='center' alignItems='center' item xs={12} md={3} lg={3}>
                             <AboutIcon img={props.img} />
                         </Grid>
                         <Grid item xs s md >

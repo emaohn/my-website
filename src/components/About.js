@@ -15,7 +15,7 @@ export default function About() {
     return(
         <div>
             <ThemeProvider theme={theme}>
-                <Box py={5} px={15}>
+                <Box p={5}>
                     <Grid container alignItems='center'>
                         <Grid item xs={12}>
                             <Box mb={6}>
@@ -23,27 +23,25 @@ export default function About() {
                             </Box>
                         </Grid>
                     </Grid>
-                    <Grid container spacing={3} alignItems='center'>
-                        <Grid item md={12} lg={4}>
-                            <Grid item direction='column'>
-                                <Grid item>
-                                    <Box px={1}>
-                                        <img id='avatar' src={require('../static/avatar.jpeg')}/>
-                                    </Box>
-                                </Grid>
-                                <Grid item>
-                                    <Box my={5} px={1}>
-                                        <Typography gutterBottom variant='subtitle1'>
-                                            <Box className='subtext'>
-                                                {text.blurb}
-                                            </Box>
-                                        </Typography>
-                                    </Box>
-                                </Grid>
+                    <Grid container spacing={3} alignItems='center' justify='center'>
+                        <Grid item xs={10} md={8} lg={3} xl={4} direction ='column' justify='center'>
+                            <Grid item>
+                                <Box item px={1}>
+                                    <img id='avatar' src={require('../static/avatar.jpeg')}/>
+                                </Box>
+                            </Grid>
+                            <Grid container item>
+                                <Box my={5} px={1} justifyContent='center'>
+                                    <Typography gutterBottom variant='subtitle1'>
+                                        <Box className='subtext'>
+                                            {text.blurb}
+                                        </Box>
+                                    </Typography>
+                                </Box>
                             </Grid>
                         </Grid>
                         <Grid item></Grid>
-                        <Grid item s md xl justify='flex-start'>
+                        <Grid item sm={8} lg={7} xl={6} justify='flex-start'>
                             <MeComponent 
                                 img='Developer'
                                 text={text.developer}
