@@ -3,7 +3,6 @@ import './App.css';
 import Intro from './components/Intro.js'
 import About from './components/About.js'
 import Projects from './components/Projects.js'
-import Current from './components/Current.js'
 
 function App() {
   return (
@@ -13,6 +12,9 @@ function App() {
       </header>
       <div className="App-about">
         <About></About>
+      </div>
+      <div className='App-Projects'>
+        <Projects />
       </div>
     </div>
   );

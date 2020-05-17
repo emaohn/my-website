@@ -43,7 +43,7 @@
 }
 
 #avatar {
-  width: 100%;
+  width: 80%;
   object-fit: cover;
   border-radius: 50%;
 }
@@ -61,4 +61,9 @@
 
 .subtext{
   color: #777B7D;
+}
+
+.App-Projects {
+  background-color: #FFFFFA;
+  color: #32373B;
 }
