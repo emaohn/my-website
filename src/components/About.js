@@ -1,5 +1,5 @@
 import React from 'react'
-import {Typography, Box, Container, Grid, Paper, Button} from '@material-ui/core';
+import {Link, Typography, Box, Container, Grid, Paper, Button} from '@material-ui/core';
 import { ThemeProvider } from '@material-ui/styles';
 import theme from '../theme'
 import MeComponent from './MeComponent'
@@ -34,7 +34,7 @@ export default function About() {
                                 <Box my={5} px={1} justifyContent='center'>
                                     <Typography gutterBottom variant='subtitle1'>
                                         <Box className='subtext'>
-                                            {text.blurb}
+                                            I\'m a computer science and mathematical computation double major at University of Massachusetts Amherst. I am currently a STEP Intern at Google and software engineer for <Link href='https://buildumass.com/'>Build UMass</Link>. 
                                         </Box>
                                     </Typography>
                                 </Box>
