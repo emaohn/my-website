@@ -28,7 +28,7 @@ export default function About() {
                                 <Box my={5} px={1} justifyContent='center'>
                                     <Typography gutterBottom variant='subtitle1'>
                                         <Box className='subtext'>
-                                            I\'m a computer science and mathematical computation double major at University of Massachusetts Amherst. I am currently a STEP Intern at Google and software engineer for <Link href='https://buildumass.com/'>Build UMass</Link>. 
+                                            I\'m a computer science and mathematical computation double major at University of Massachusetts Amherst. I am currently a STEP Intern at Google and software engineer for <Link target="_blank" rel="noopener noreferrer" href='https://buildumass.com/'>Build UMass</Link>. 
                                         </Box>
                                     </Typography>
                                 </Box>

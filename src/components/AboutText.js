@@ -9,7 +9,7 @@ export default function AboutText(props) {
                     <Typography variant='h5'><Box mb={1}>{props.img}</Box></Typography>
                         <Typography variant='subtitle1'>
                             <Box className='subtext'>{props.text}
-                            Ever since I first taught myself to code in 7th grade, I fell in love with the joy of building software that can reach a vast number of people all over the world. After attending Make School Summer Academy in SF back in 2018, I began making iOS apps and have made over 10 apps, 2 of which are on the app store and 4 of which have won hackathons. More recently, I began delving into web development and have picked up an interest in the more theoretical and algorithmic side of CS. You can view my projects <Link href='#'>here</Link>.
+                            Ever since I first taught myself to code in 7th grade, I fell in love with the joy of building software that can reach a vast number of people all over the world. After attending Make School Summer Academy in SF back in 2018, I began making iOS apps and have made over 10 apps, 2 of which are on the app store and 4 of which have won hackathons. More recently, I began delving into web development and have picked up an interest in the more theoretical and algorithmic side of CS. You can view my projects <Link target="_blank" rel="noopener noreferrer" href='#'>here</Link>.
                             </Box>
                         </Typography>
                 </Box>
@@ -33,7 +33,7 @@ export default function AboutText(props) {
                     <Typography variant='h5'><Box mb={1}>{props.img}</Box></Typography>
                     <Typography variant='subtitle1'>
                         <Box className='subtext'>{props.text}
-                        Through hackathons, clubs, summer programs, and jobs, I've gotten to know and collaborate with some of the most brilliant people who've inspired me to keep working hard and pursue my goals. With CS being such a diverse industry, I love that I can connect with and learn from people of all different skills and backgrounds. I also enjoy sharing my experiences and helping others grow and have served as a TA for AP Java as well as a programming instructor at <Link href='https://thecodewiz.com/westford-ma/'>Code Wiz</Link> and <Link href='https://www.ivy-seed.com/' rel="noopener" rel="noreferrer">Ivy Seed Academy</Link>.
+                        Through hackathons, clubs, summer programs, and jobs, I've gotten to know and collaborate with some of the most brilliant people who've inspired me to keep working hard and pursue my goals. With CS being such a diverse industry, I love that I can connect with and learn from people of all different skills and backgrounds. I also enjoy sharing my experiences and helping others grow and have served as a TA for AP Java as well as a programming instructor at <Link target="_blank" rel="noopener noreferrer" href='https://thecodewiz.com/westford-ma/'>Code Wiz</Link> and <Link href='https://www.ivy-seed.com/' target="_blank" rel="noopener noreferrer">Ivy Seed Academy</Link>.
                         </Box>
                     </Typography>
                 </Box>
