@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/my-website/static/css/main.ecaaae66.chunk.css",
-    "main.js": "/my-website/static/js/main.062b8473.chunk.js",
-    "main.js.map": "/my-website/static/js/main.062b8473.chunk.js.map",
+    "main.css": "/my-website/static/css/main.264a0baa.chunk.css",
+    "main.js": "/my-website/static/js/main.c8b005fd.chunk.js",
+    "main.js.map": "/my-website/static/js/main.c8b005fd.chunk.js.map",
     "runtime-main.js": "/my-website/static/js/runtime-main.4b3f9178.js",
     "runtime-main.js.map": "/my-website/static/js/runtime-main.4b3f9178.js.map",
     "static/css/2.af3c1da9.chunk.css": "/my-website/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.206f6a88.chunk.js": "/my-website/static/js/2.206f6a88.chunk.js",
-    "static/js/2.206f6a88.chunk.js.map": "/my-website/static/js/2.206f6a88.chunk.js.map",
+    "static/js/2.5a993fe6.chunk.js": "/my-website/static/js/2.5a993fe6.chunk.js",
+    "static/js/2.5a993fe6.chunk.js.map": "/my-website/static/js/2.5a993fe6.chunk.js.map",
     "index.html": "/my-website/index.html",
-    "precache-manifest.9f7eeaf556f2ccb29554c739d1a4f933.js": "/my-website/precache-manifest.9f7eeaf556f2ccb29554c739d1a4f933.js",
+    "precache-manifest.513f918d0277ad721441661e04b7eb28.js": "/my-website/precache-manifest.513f918d0277ad721441661e04b7eb28.js",
     "service-worker.js": "/my-website/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/my-website/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.ecaaae66.chunk.css.map": "/my-website/static/css/main.ecaaae66.chunk.css.map",
-    "static/js/2.206f6a88.chunk.js.LICENSE.txt": "/my-website/static/js/2.206f6a88.chunk.js.LICENSE.txt",
+    "static/css/main.264a0baa.chunk.css.map": "/my-website/static/css/main.264a0baa.chunk.css.map",
+    "static/js/2.5a993fe6.chunk.js.LICENSE.txt": "/my-website/static/js/2.5a993fe6.chunk.js.LICENSE.txt",
     "static/media/Koso.png": "/my-website/static/media/Koso.c2d7eefb.png",
     "static/media/auxilia.png": "/my-website/static/media/auxilia.0fa28c9f.png",
     "static/media/avatar.jpeg": "/my-website/static/media/avatar.85596822.jpeg",
@@ -31,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.4b3f9178.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.206f6a88.chunk.js",
-    "static/css/main.ecaaae66.chunk.css",
-    "static/js/main.062b8473.chunk.js"
+    "static/js/2.5a993fe6.chunk.js",
+    "static/css/main.264a0baa.chunk.css",
+    "static/js/main.c8b005fd.chunk.js"
   ]
 }
