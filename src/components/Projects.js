@@ -92,7 +92,7 @@ const ProjectList = [
     },
     {
         title: 'SwoleApp',
-        description: 'An iOS app with a partner Apple watch app that monitors your weight lifting movements helps you maintin good form.Made at HackUMass VI',
+        description: 'An iOS app with a partner Apple watch app that monitors your weight lifting movements helps you maintin good form. Made at HackUMass VI',
         tech: 'Swift, SwiftUI',
         img: require('../static/swole.png'),
         link: 'https://github.com/emaohn/SwoleApp',
