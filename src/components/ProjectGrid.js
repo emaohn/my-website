@@ -5,6 +5,8 @@ import Paper from '@material-ui/core/Paper';
 import { ThemeProvider } from '@material-ui/styles';
 import theme from '../theme';
 import Project from './Project'
+
+
 export default function ProjectGrid(props) {
     const projs = props.list.map(proj => {
         return (

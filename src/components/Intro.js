@@ -3,8 +3,10 @@ import Typical from 'react-typical'
 import {Typography, Box, Container, Grid, Paper, Button} from '@material-ui/core';
 import { ThemeProvider } from '@material-ui/styles';
 import theme from '../theme'
+import * as Scroll from 'react-scroll';
+import { Link, Element , Events, animateScroll as scroll, scrollSpy, scroller } from 'react-scroll'
 
-export default function Intro() {
+export default function Intro(props) {
     return (
         <div>
             <ThemeProvider theme={theme}>
@@ -34,7 +36,21 @@ export default function Intro() {
                         <Grid container direction='row' justify ='center' alignItems='center'>
                             <Box m={8}>
                                 <Grid item xs={12}>
-                                    <Button size='large' variant='outlined' color='default'>Learn more about me</Button>
+                                    <Button
+                                        size='large'
+                                        variant='outlined'
+                                        color='default'>
+                                            <Link
+                                                activeClass='active'
+                                                className='toAbout'
+                                                to='about'
+                                                spy={true}
+                                                smooth={true}
+                                                duration={500}
+                                            >
+                                                Learn more about me
+                                            </Link>
+                                        </Button>
                                 </Grid>
                             </Box>
                         </Grid>
