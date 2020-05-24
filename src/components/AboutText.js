@@ -9,7 +9,7 @@ export default function AboutText(props) {
                     <Typography variant='h5'><Box mb={1}>{props.img}</Box></Typography>
                         <Typography variant='subtitle1'>
                             <Box className='subtext'>{props.text}
-                            Ever since I first taught myself to code in 7th grade, I fell in love with the joy of building software that can reach a vast number of people all over the world. After attending Make School Summer Academy in SF back in 2018, I began making iOS apps and have made over 10 apps, 2 of which are on the app store and 4 of which have won hackathons. More recently, I began delving into web development and have picked up an interest in the more theoretical and algorithmic side of CS. You can view my projects.
+                            Ever since I first taught myself to code in 7th grade, I fell in love with the joy of building software that can reach a vast number of people all over the world. After attending Make School Summer Academy in SF back in 2018, I began making iOS apps and have made over 10 apps, 2 of which are on the app store and 4 of which have won hackathons. More recently, I began delving into web development and have picked up an interest in the more theoretical and algorithmic side of CS.
                             </Box>
                         </Typography>
                 </Box>
