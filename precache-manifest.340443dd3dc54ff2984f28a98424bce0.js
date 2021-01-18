@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3e48de697cae44ec3f193e40ee72576a",
+    "revision": "4e4095cff64ea3e32f2ca3bc36a2a3aa",
     "url": "/my-website/index.html"
   },
   {
-    "revision": "9d1585ca2b1d8c84b48a",
+    "revision": "7deae253c6f843084198",
     "url": "/my-website/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "9b161348d8efdcf8a2a4",
-    "url": "/my-website/static/css/main.264a0baa.chunk.css"
+    "revision": "d3244826d1d851495391",
+    "url": "/my-website/static/css/main.f8ca7a43.chunk.css"
   },
   {
-    "revision": "9d1585ca2b1d8c84b48a",
-    "url": "/my-website/static/js/2.5a993fe6.chunk.js"
+    "revision": "7deae253c6f843084198",
+    "url": "/my-website/static/js/2.17bc09e2.chunk.js"
   },
   {
     "revision": "277f9ac65ea629533c781a2e9dd27b69",
-    "url": "/my-website/static/js/2.5a993fe6.chunk.js.LICENSE.txt"
+    "url": "/my-website/static/js/2.17bc09e2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9b161348d8efdcf8a2a4",
-    "url": "/my-website/static/js/main.f252edb1.chunk.js"
+    "revision": "d3244826d1d851495391",
+    "url": "/my-website/static/js/main.fe8c5268.chunk.js"
   },
   {
     "revision": "c8313d6a8cf789ef0797",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c2d7eefb6f2c358c5a5d0ca2234e2fb6",
     "url": "/my-website/static/media/Koso.c2d7eefb.png"
+  },
+  {
+    "revision": "44589752b7044281357898d82836fc79",
+    "url": "/my-website/static/media/Resume.44589752.pdf"
   },
   {
     "revision": "0fa28c9f0d4c3923d12560c903279a8d",
