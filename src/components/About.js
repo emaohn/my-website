@@ -28,7 +28,7 @@ export default function About() {
                                 <Box my={5} px={1} justifyContent='center'>
                                     <Typography gutterBottom variant='subtitle1'>
                                         <Box className='subtext'>
-                                            I'm a computer science and mathematical computation double major at University of Massachusetts Amherst. I am currently a STEP Intern at Google and software engineer for <Link target="_blank" rel="noopener noreferrer" href='https://buildumass.com/'>Build UMass</Link>. 
+                                            I major in computer science and minior in mathematical computation and computational linguistics at University of Massachusetts Amherst. I'm an ex-Google STEP intern and incoming software engineering intern at Asana. Currently, I'm a tech lead and leadership member at <Link target="_blank" rel="noopener noreferrer" href='https://buildumass.com/'>Build UMass</Link> and also an undergraduate research assistant at UMass BioNLP.
                                         </Box>
                                     </Typography>
                                 </Box>
