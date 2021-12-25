@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/my-website/static/css/main.f8ca7a43.chunk.css",
-    "main.js": "/my-website/static/js/main.fe8c5268.chunk.js",
-    "main.js.map": "/my-website/static/js/main.fe8c5268.chunk.js.map",
+    "main.css": "/my-website/static/css/main.ab4164e1.chunk.css",
+    "main.js": "/my-website/static/js/main.fdcd0162.chunk.js",
+    "main.js.map": "/my-website/static/js/main.fdcd0162.chunk.js.map",
     "runtime-main.js": "/my-website/static/js/runtime-main.4b3f9178.js",
     "runtime-main.js.map": "/my-website/static/js/runtime-main.4b3f9178.js.map",
     "static/css/2.af3c1da9.chunk.css": "/my-website/static/css/2.af3c1da9.chunk.css",
     "static/js/2.17bc09e2.chunk.js": "/my-website/static/js/2.17bc09e2.chunk.js",
     "static/js/2.17bc09e2.chunk.js.map": "/my-website/static/js/2.17bc09e2.chunk.js.map",
     "index.html": "/my-website/index.html",
-    "precache-manifest.340443dd3dc54ff2984f28a98424bce0.js": "/my-website/precache-manifest.340443dd3dc54ff2984f28a98424bce0.js",
+    "precache-manifest.ac33fe645e0afd0e5864a6bffcc0d707.js": "/my-website/precache-manifest.ac33fe645e0afd0e5864a6bffcc0d707.js",
     "service-worker.js": "/my-website/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/my-website/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.f8ca7a43.chunk.css.map": "/my-website/static/css/main.f8ca7a43.chunk.css.map",
+    "static/css/main.ab4164e1.chunk.css.map": "/my-website/static/css/main.ab4164e1.chunk.css.map",
     "static/js/2.17bc09e2.chunk.js.LICENSE.txt": "/my-website/static/js/2.17bc09e2.chunk.js.LICENSE.txt",
     "static/media/Koso.png": "/my-website/static/media/Koso.c2d7eefb.png",
-    "static/media/Resume.pdf": "/my-website/static/media/Resume.44589752.pdf",
+    "static/media/Resume.pdf": "/my-website/static/media/Resume.b9b430ff.pdf",
     "static/media/auxilia.png": "/my-website/static/media/auxilia.0fa28c9f.png",
     "static/media/avatar.jpeg": "/my-website/static/media/avatar.85596822.jpeg",
     "static/media/cerberus.jpg": "/my-website/static/media/cerberus.ebdbf2df.jpg",
@@ -33,7 +33,7 @@
     "static/js/runtime-main.4b3f9178.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.17bc09e2.chunk.js",
-    "static/css/main.f8ca7a43.chunk.css",
-    "static/js/main.fe8c5268.chunk.js"
+    "static/css/main.ab4164e1.chunk.css",
+    "static/js/main.fdcd0162.chunk.js"
   ]
 }
