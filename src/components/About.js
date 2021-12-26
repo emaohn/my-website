@@ -29,8 +29,8 @@ export default function About() {
                                     <Box my={5} px={1} justifyContent='center'>
                                         <Typography gutterBottom variant='subtitle1'>
                                             <Box className='subtext'>
-                                                I major in computer science and minior in mathematical computation and computational linguistics at University of Massachusetts Amherst. I'm an ex-Google STEP intern and incoming software engineering intern at Asana. Currently, I'm a tech lead and leadership member at <Link target="_blank" rel="noopener noreferrer" href='https://buildumass.com/'>Build UMass</Link> and also an undergraduate research assistant at UMass BioNLP.
-                                        </Box>
+                                                I'm a third year computer science major (+ math minor) at University of Massachusetts Amherst. I've previously interned at Google and Asana and will be returning to Asana as a full time software engineer in the fall of 2022. I'm currently the co-president of <Link target="_blank" rel="noopener noreferrer" href='https://buildumass.com/'>Build UMass</Link>, a tech consulting club atUMass helping local businesses and organizations build technical solutions.
+                                            </Box>
                                         </Typography>
                                         <Button onClick={() => window.open(pdf)}>Download Resume</Button>
                                     </Box>

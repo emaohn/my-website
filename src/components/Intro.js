@@ -28,7 +28,9 @@ export default function Intro(props) {
                                                     ' an iOS developer.', 1000, 
                                                     ' a web developer.', 1000, 
                                                     ' a hacker.', 1000,
-                                                    ' a programming instructor.', 1000]}
+                                                    ' a programming instructor.', 1000,
+                                                    ' a software engineer', 1000
+                                                ]}
                                         />
                                 </Typography>
                             </Grid>
